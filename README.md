@@ -14,4 +14,4 @@ This is meant to be a collaborative, open-source effort. And, at this time, the 
 
 ## Additional Notes
 
-Non-STEM topics will be initiated in this repository; however, it should be expected that a different repository will be created for them at some point (by anyone).
+Non-STEM topics will be initiated in this repository; however, it should be expected that different repositories will be created for them at some point (by anyone).
