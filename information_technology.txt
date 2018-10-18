@@ -1,0 +1,113 @@
+IT
+____
+
+Send - shaader
+Receive - shkool
+
+Input - 
+Output - 
+
+Use - maplikh
+Work - poolookh
+Worker - palakha
+Workers - palakhih
+
+Daemon (angel) - malakha
+
+Run - maarkhid
+Stop - maklee
+Pause - 
+Restart - minqamta
+Reset - 
+
+Let - shooq
+Allow - shooq
+Leave/exit - plood
+Stay - poosh
+Don't stay - la poosh
+
+Exists - it'tin
+Doesn't exist - lit'tin
+
+Insert - maav'vir
+Continue - 
+Persist - 
+Corrupt - 
+
+Operation - 
+Halt - 
+
+Valid - 
+Invalid - 
+
+Qidyaa - cut, disconnected
+
+Learn - loop
+Teach - mal'lip
+Forget - manshee
+
+Series - 
+Serial - 
+Parallel - 
+
+Synchronous - 
+Asynchronous - 
+
+Contribution - 
+Help (verb) - haayir
+Help - haayaartaa
+About - 
+
+File - 
+Edit - 
+Function (job) - shoolaa
+Feature - 
+Window - 
+Folder - 
+Page - 
+Word - 
+Letter - 
+Color - 
+Font - 
+
+Inside - gawai
+Outside - va'dar
+
+Keep - khamee
+Waste - raap'pee
+
+Increase - mazyid
+Decrease - maabsir
+
+Pending, waiting for - daamal - ܥܕܲܡܵܐ ܠ
+Late - margalta
+Has timed out - moorgila, min daanaa empil’la
+
+A session, a sitting - (?) qtisma - ܩܬܝܼܣܡܵܐ
+
+Will take - shaqil - ܫܵܩܹܠ
+
+Download (taking) - Shqalta
+Upload (sending) - Shaadaartaa
+
+Store - 
+Storage - 
+
+Time - daanaa - ܥܕܵܢܵܐ
+
+Warning, caution - mi’rana - ܡܥܝܼܪܵܢܵܐ
+Error - khildaa
+
+Preference, favorite - matwa - ܡܲܛܐܒ݂ܵܐ
+
+A hint, a clue - ramu’zoota (?) - ܪܵܡܘܿܙܘܼܬܵܐ
+
+Extension - mpaash’toota - ܡܦܲܫܛܘܼܬܵܐ
+
+Partition, partitioning - mpalgha’noota - ܡܦܲܠܓ݂ܵܢܘܼܬܵܐ
+
+Digital (masculine) - raq’maia - ܪܲܩܡܵܝܵܐ
+Digital (feminine) - raq’maita - ܪܲܩܡܵܝܬܵܐ
+digital money, bit coins - raq’maia - ܪܲܩܡܵܝܵܐ
+A digital transaction - za’banta raq’maia - ܙܒ݂ܵܢܬܵܐ ܪܲܩܡܵܝܬܵܐ
+
