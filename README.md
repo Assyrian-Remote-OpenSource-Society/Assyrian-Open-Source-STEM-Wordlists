@@ -8,9 +8,13 @@ Writing a modern Mathematics or Physics textbook in Assyrian is a difficult ende
 
 Finding, selecting, and compiling words is a time-consuming process, which could slow down an author who is not already familiar with the Assyrian vocabulary for the respective topic. With the existence of pre-compiled wordlists, authors of modern Assyrian STEM textbooks can produce their work at a much faster rate.
 
+## Formatting
+
+Eventually, a more visually consumable format will be given to the wordlists. At this time, initiating the effort has higher priority.
+
 ## Contribution
 
-This is meant to be a collaborative, open-source effort. And, at this time, the wordlists are in text format and they have not been sorted.
+This is meant to be a collaborative, open-source effort. And, currently, the wordlists are in text format and they have not been sorted yet.
 
 ## Additional Notes
 
