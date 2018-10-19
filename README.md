@@ -24,7 +24,7 @@ i - ih - as in "till" <BR>
 
 An apostrophe, ', indicates a quick pause in the word, which is natural to anyone who speaks any level of modern Assyrian Neo-Aramaic.
 
-q is used for the qop, ܩ, sound - such as "qasha" (the word commonly used to refer to a priest) or qedala (neck)
+q is used for the qop, ܩ, sound - such as "qasha" (the word commonly used to refer to a priest) or qedala (neck) <BR>
 kh is used for the kheth, ܚ, sound - such as "khela" (strength, might, power) or khilda (error, incorrect, wrong)
 
 ## Formatting
