@@ -14,13 +14,13 @@ Each word should have the Assyrian spelling, phonetic in English (pronunciation)
 
 ## Phonetics
 
-a - ah - as in "pal"
-aa - uh - as in "tall"
-o - oh - as in "pole"
-oo as in "good"
-e - eh - as in "tell"
-ee as in "feel"
-i - ih - as in "till"
+a - ah - as in "bad" <BR>
+aa - uh - as in "tall" <BR>
+o - oh - as in "pole" <BR>
+oo as in "good" <BR>
+e - eh - as in "tell" <BR>
+ee as in "feel" <BR>
+i - ih - as in "till" <BR>
 
 An apostrophe, ', indicates a quick pause in the word, which is natural to anyone who speaks any level of modern Assyrian Neo-Aramaic.
 
