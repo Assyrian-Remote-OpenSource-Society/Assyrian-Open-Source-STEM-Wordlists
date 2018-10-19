@@ -36,6 +36,7 @@ Twisted, wrinkled, crumbled (?) - qoormichtaa
 
 Inside - gawai
 Outside - va’dar
+External, exterior - ba'raia - ܒܲܪܵܝܵܐ
 
 Drive - dree, maadree
 Driving - bid'raya, maadrooyaa, bi'raya
@@ -135,3 +136,8 @@ Isolated - balkho’daia - ܒܲܠܚܘܿܕܵܝܵܐ
 
 Passable, penetrable - mito’rana - ܡܸܬܥܲܒ݂ܪܵܢܵܐ
 
+Electricity - birqa - ܒܸܪܩܵܐ
+
+Flicker, twinkle, scintillating, shining, a ray of light - zilga - ܙܸܠܓܵܐ
+
+To bear, to endure, to carry - tain - ܛܵܥܸܢ
