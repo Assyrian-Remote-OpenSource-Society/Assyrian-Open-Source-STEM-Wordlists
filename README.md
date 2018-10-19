@@ -10,7 +10,7 @@ Finding, selecting, and compiling words is a time-consuming process, which could
 
 ## Formatting
 
-Eventually, a more visually consumable format will be given to the wordlists. At this time, initiating the effort has higher priority.
+A more visually consumable format will be given to the wordlists, eventually. At this time, initiating the effort has higher priority.
 
 ## Contribution
 
