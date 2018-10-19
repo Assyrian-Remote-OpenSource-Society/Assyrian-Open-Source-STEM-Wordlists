@@ -136,3 +136,20 @@ Result - map’qana - ܡܲܦܩܵܢܵܐ
 Outcome - plata - ܦܠܵܛܵܐ
 
 A quantity, an amount, a quota - kma’iutha -ܟܡܵܝܘܼܬ݂ܵܐ
+
+Extremely fine, microscopic, infinitesimal (?) - dai’qoona - ܕܲܝܩܘܿܢܵܐ
+
+Delimited, finite, restricted - mistai’kana - ܡܸܣܬܲܝܟܵܢܵܐ
+
+Unlimited, infinite, unrestricted - la mistai’kana - ܠܵܐ ܡܸܣܬܲܝܟܵܢܵܐ
+
+Bounded, limited, finite (masculine) - mtaakhma - ܡܬܲܚܡܵܐ
+Bounded, limited, finite (feminine) - mta’khamta - ܡܬܲܚܲܡܬܵܐ
+
+Boundless, unlimited, infinite - la’mtaakhma - ܠܵܐ ܡܬܲܚܡܵܐ
+
+Permanent, perpetual, stable, steady, continuing in the same state - mkat’rana - ܡܟܲܬܪܵܢܵܐ
+
+Eternal, perpetual, forever - dyalaam - ܕܥܵܠܲܡ
+
+Random, vain - iqi - ܐܝܼܩܝܼ
