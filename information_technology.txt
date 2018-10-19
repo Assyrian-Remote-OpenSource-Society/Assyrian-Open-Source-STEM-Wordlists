@@ -62,7 +62,8 @@ File -
 Edit - 
 Function (job) - shoolaa
 Feature - 
-Window - 
+Window - oo'zinta - ܐܘܼܙܸܢܬܵܐ
+Window - zwidna - ܙܘܸܕ݂ܢܵܐ
 Folder - 
 Page - 
 Word - 
