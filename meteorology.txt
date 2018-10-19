@@ -1,34 +1,77 @@
 Meteorology 
 ____
 
-Weather, air - hawa
+Weather, air - athir - ܐܵܬ݂ܝܼܪ
 
-Wind - pokha
+Wind - pokha - ܦܵܘܚܵܐ
+
+Windy, breezy - pokhanta/pokhana - ܦܵܘܚܵܢܵܐ
 
 Water - mia - ܡ̈ܝܼܵܐ
 
-Rain  - moodraa
+Rain  - midraa - ܡܸܛܪܵܐ
 
-Snow - tal’ga
+Rainy - midraanaa - ܡܸܛܪܵܢܵܐ
 
-Sleet - 
+Wet, rainy, watered with rain - m'tira - ܡܛܝܼܪܵܐ
 
-Flood - 
+Rainy weather, showery, wet - ar'ianta / ar'iana - ܥܵܪܝܵܢܬܵܐ / ܥܵܪܝܵܢܵܐ
 
-Tornado - 
+A storm - ki'moona - ܟܹܐܡܘܼܢܵܐ
+
+Lightning - birqa - ܒܸܪܩܵܐ
+Lightning - zalqa - ܙܲܠܩܵܐ
+
+Snow - talga - ܬܲܠܓܵܐ
+
+To snow - ari'talga - ܥܵܪܹܐ ܬܲܠܓܵܐ
+
+Sleet - zu'gana - ܙܘܼܩܵܢܵܐ
+Sleet - qu'zaia - ܩܘܼܙܵܝܵܐ
+
+Flood, an overflow - ga'khoota - ܓܵܚܘܼܬܵܐ
+
+Tornado - zoe'za-a - ܙܘܿܥܙܵܥܵܐ
 
 Earthquake, a seism, a vibration - no’dana - ܢܵܘܕܵܢܵܐ
 
-Avalanche - 
+Avalanche, a snowslide - a'shitha - ܥܵܫܝܼܬ݂ܵܐ
 
-Volcanic eruption - 
+Volcano - gasi'noora - ܓܵܣܹܐ ܢܘܼܪܵܐ
 
-Sun - shimsha
+Rainbow - qish'taai'maraan - ܩܸܫܬܲܝ ܡܵܪܲܢ
 
-Sunny - Shimsha’na
+Sky, heaven, the firmament - shmaya - ܫܡܲܝܵܐ
+
+Skies - shma'iatha - ܫܡ̈ܲܝܵܬ݂ܵܐ
+
+A clear sky, fine weather - saakhwa - ܨܲܚܘܵܐ
+
+To clear up, to become transparent - spa - ܨܦܵܐ
+
+Cloud - aaywaa/aayvaa - ܫܡ̈ܲܝܵܬ݂ܵܐ
+
+Cloudy - aay'vaanaa - ܥܲܝܒ݂ܵܢܵܐ
+
+Dusky - ba'hoora - ܒܲܗܘܼܪܵܐ
+
+Gloomy, dusky, dismal through obscurity or darkness - makm'hana - ܡܲܟܡܗܵܢܵܐ
+
+Sun - shimsha - ܫܸܡܫܵܐ
+
+Sunny - shimsha’na - ܫܸܡܫܵܢܵܐ
 
 The moon - sahra -ܣܲܗܪܵܐ
 
 Full moon (filled moon) - kis sah’malia - ܟܸܣܐܵܐ ܡܲܠܝܵܐ
 
 Moonlight - shimshi’sara - ܫܸܡܫܝܼ ܣܲܗܪܵܐ
+
+The Earth, the world, the universe - doonyi - ܕܘܼܢܝܹܐ
+[Variants of the above word is shared between Arabic, Farsi, Kurdish, Turkish, and Hindi.]
+
+Earthly, of the world - doo'nyata - ܕܘܼܢܝܵܝܬܵܐ
+
+Outer space - atir ba'raia - ܐܵܬܝܼܪ ܒܲܪܵܝܵܐ
+
+Meteor, a transient luminous body in the sky, a shooting star, a falling star, a fireball - daq'disa - ܕܲܐܩܕܝܼܣܵܐ
