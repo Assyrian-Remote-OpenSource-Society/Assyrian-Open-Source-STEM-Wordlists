@@ -55,6 +55,7 @@ Remainder - a’pazga - ܐܵܦܲܙܓܵܐ
 Special, distinguished, different, particular - lhaad'da - ܠܗܲܕܵܐ
 Apart - mlarshayit - ܡܦܲܪܫܵܐܝܼܬ
 Separate - m'shakhlpa - ܡܫܲܚܠܦܵܐ
+
 Different/Separate - preesha/prishta
 Difference - prishoota - ܦܪܝܼܫܘܼܬܵܐ
 Difference - poorasha - ܦܘܼܫܵܪܵܐ
@@ -69,6 +70,10 @@ Integral -
 Integrate - 
 Integration - 
 Integrated
+
+Derive - 
+Derivation - 
+Derivative - 
 
 Add (place) - mat'tee
 Subtract (take), deduct - shqool
