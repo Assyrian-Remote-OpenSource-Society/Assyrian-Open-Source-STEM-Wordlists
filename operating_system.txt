@@ -1,0 +1,206 @@
+Operating System
+____
+
+
+Keyboard
+__
+
+return - maadir
+enter - woor
+command - amir - ܐܵܡܹܪ
+shift - shakhlip
+alt (alternate) - maptil (flip)
+option - 
+tab - 
+delete - shoop
+back (1) - baaraai
+back (2) - hapek - ܗܵܦܹܟ݂
+escape - plood, paalid
+
+
+System Operation
+__
+
+boot - 
+start (hardware) / turn on - tapee
+shutdown - maajmee
+restart - maakhdir
+sleep - madmikh
+wake - maqyim
+
+
+System Terms
+__
+root - iqra - ܥܸܩܪܵܐ
+internal - gawa
+daemon - malakha
+kill - qdool
+kill all - qdool koole
+force - khelawood / bkhelawood
+void - batil - ܒܵܐܛܹܠ
+thread - khoota - ܚܘܼܛܵܐ
+
+
+System Messages
+__
+
+error - khildaa
+warning - 
+fault - khlaataa (?)
+flaw -  
+problem - 
+cause - 
+caused - 
+occur - oya
+occurred - veela
+processing - vada
+processed - vidla
+finished - priqla
+cancelled - batil - ܒܵܐܛܹܠ
+lost - tliqta
+has been lost - tliqla
+has been found - michikhla
+waiting - bisbara
+later - khaartaa
+now - adee / adeeya
+
+
+System Components
+__
+
+
+Tasks
+__
+
+write - ktoov / maktiv
+read - qree
+modify - shakhlip
+overwrite - ktoov aalo
+ignore - 
+exit - plood
+wait - sooboor (loan word?)
+remember - tookhoor
+remind - madkhir
+forget - manshee
+close - dur
+open - tookh
+start  - shaaree
+waste (delete) - raap’pee
+wipe - mishee
+increase - mazyid
+decrease - maabsir
+expand - 
+collapse - 
+accept - qabel
+deny - la qabel
+go - khoosh
+find - machikh
+search - daavee
+look - gesh
+scan - 
+dim - khishgana
+bright - baaraanaa
+show - maqzee
+hide - daashee
+
+
+User Command Operation
+__
+
+give - hal
+take - shkool
+lift - maarim
+place - mat’tee
+drag - gooroosh
+drop - mampil
+beginning - qamai, qamtah
+end - baaraai
+again - minqamtah
+before - min’qam
+after - min’baar
+back - baaraai
+forward - gamai
+
+
+Network
+__
+
+send - shaader
+receive - shkool
+deliver - maamdee
+mirror - nora
+late - marqalta
+timed-out - moorqila
+waiting - bisbara
+download - shkool
+upload - mat'tee 
+
+
+Graphic
+__
+
+fall - oompool
+stand - klee
+grow - garvis
+thick - khlimtah
+thin - nazook
+big - goorta
+small - soorta
+gain - moozyada (?)
+loss - moobsaaraa (?)
+insert - maavir 
+tear - jaambir
+clean - khaal’lil
+position - dookta
+view - khizetah (?)
+head - reeshah
+foot - aqlah
+top - oolool
+bottom - eltiq
+left - jaablaa
+right - raastaa
+side - qeeba
+sides - qeebane
+lateral - qeebaya (?)
+
+
+Measurement
+__
+
+width - pitwa
+height - raamoota (raamaayaa?)
+length - yoorkha
+weight - yooqra
+margin - 
+padding - 
+row - 
+column - 
+area - dooka
+foot - aqlah
+feet - aqleh
+inch - 
+pixel - 
+
+
+General
+__
+
+automatic - mingano
+table - meeza (loan word?)
+text - ketoota
+star - kikhwa
+count - khashbin
+indicate - maqzee
+indication - maqzeta/maqzoota
+indications - maqzete
+indicator - maqzaya
+listen - maashmee
+listening - maashmooyaa
+listener - maashmaanaa
+listeners - maashmaane
+listening (act of) - maashmeta
+
+
+Sensor Operation
+__
+shake - shoosh, maashish (?)
