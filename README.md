@@ -1,6 +1,6 @@
 # Assyrian Open-Source STEM Wordlists
 
-The purpose of this repository is to provide extensive Assyrian wordlists for different STEM topics, given that it's extremely difficult to obtain modern Assyrian textbooks from Assyria (the Northern Iraq region) at this time.
+The purpose of this repository is to provide extensive Assyrian wordlists for different STEM topics, given that it's extremely difficult to obtain modern Assyrian textbooks from the Northern Iraq region of Assyria at this time.
 
 ## Motivation
 
