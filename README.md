@@ -8,6 +8,8 @@ Writing a modern Mathematics or Physics textbook in Assyrian is a difficult ende
 
 Finding, selecting, and compiling words is a time-consuming process, which could slow down an author who is not already familiar with the Assyrian vocabulary for the respective topic. With the existence of pre-compiled wordlists, authors of modern Assyrian STEM textbooks can produce their work at a much faster rate.
 
+Another major motivation is to give rise to an Assyrian Linux distribution using the Assyrian language. Additionally, provide the word pack necessary for other Operating Systems to make the Assyrian language available for their users.
+
 ## Scope
 
 Each word should have the Assyrian spelling, phonetic in English (pronunciation), and English definition.
