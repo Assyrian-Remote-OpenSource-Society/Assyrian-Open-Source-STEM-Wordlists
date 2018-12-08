@@ -159,9 +159,9 @@ top - oolool
 bottom - eltiq
 left - jaablaa
 right - raastaa
-side - qeeba
-sides - qeebane
-lateral - qeebaya (?)
+side - geeba
+sides - geebane
+lateral - geebaya (?)
 
 
 Measurement
@@ -189,7 +189,8 @@ automatic - mingano
 table - meeza (loan word?)
 text - ketoota
 star - kikhwa
-count - khashbin
+count (verb) - khashbin
+count (noun) - khashbanta
 indicate - maqzee
 indication - maqzeta/maqzoota
 indications - maqzete
