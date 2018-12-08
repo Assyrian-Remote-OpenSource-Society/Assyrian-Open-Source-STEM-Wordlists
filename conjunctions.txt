@@ -1,3 +1,4 @@
+although - apin - ܐܵܦܸܢ
 
 and - ou
 
@@ -5,20 +6,29 @@ as (like) - akh - ܐܲܝܟ݂
 as (time of, Eastern) - ga'hit
 as (time of, Classical) - kadh
 
-because - mittul - 
+because - mitl - ܡܸܛܠ
 because - sabab - ܣܵܒܵܒ
 
 but - ina
 
 for - qa / qe
 
+if - in - ܐܸܢ
+if - iloo - ܐܸܠܘܿ
+* accompanying adverb: then - idla - ܐܸܕܠܵܐ
+
 nor - oopla - ܐܘܼܦ ܠܵܐ
 
-or - yaa
+Or, either - yaa - ܝܵܐ
+
+per, in accordance with, according to - mitl d - ܡܸܛܠ ܕ
 
 so - akh - ܐܲܝܟ݂
 
-yet - haalaam
+until, till - ‘hal - ܗܲܠ
 
 while - iman - ܐܝܼܡܲܢ
 while (the time of) - edaan'd / edaanaa'd
+
+yet - haalaam
+yet, except that - ila - ܐܸܠܵܐ
