@@ -1,21 +1,24 @@
 
 and - ou
 
-or - ya
-
-nor - 
-
-for - qa / qe
-
-but - ina
-
-yet - haalaam
-
-so - 
-
 as (like) - akh - ܐܲܝܟ݂
 as (time of, Eastern) - ga'hit
 as (time of, Classical) - kadh
+
+because - mittul - 
+because - sabab - ܣܵܒܵܒ
+
+but - ina
+
+for - qa / qe
+
+nor - oopla - ܐܘܼܦ ܠܵܐ
+
+or - yaa
+
+so - akh - ܐܲܝܟ݂
+
+yet - haalaam
 
 while - iman - ܐܝܼܡܲܢ
 while (the time of) - edaan'd / edaanaa'd
