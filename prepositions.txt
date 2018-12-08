@@ -18,7 +18,9 @@ aal - on, over and in contact with, at the surface of and supported by, upon, ab
 — put it on the ground - mat'teela aal aaraa
 
 ki - [makes the past indefinite, implying it has been the case] - ܟܹܐ
-— a verbal prefix that when placed before the subjunctive of the verb indicates the indicative mode, the sign of the habitual and historic present and imperfect, not used in Tiari 
+— a verbal prefix that when placed before the subjunctive of the verb indicates the indicative mode, the sign of the habitual and historic present and imperfect, not used in Tiari
+— baayenaa: I want her -> ki baayena: I [have been wanting and] want her
+— yaadin: I [will] know -> ki yaadin: I [already] know
 
 min - from (a starting point) , out of , at , on , of  - ܡܸܢ
 
