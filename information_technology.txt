@@ -23,15 +23,19 @@ Workers - palakhih
 
 Daemon (angel) - malakha
 
-Start - shaaree
+Start - shaare - ܫܲܪܹܐ
 Run - maarkhid
 Pause - ba'hil - ܒܵܗܹܠ
 Stop - maklee
-Restart - door aalshaareta
+Restart - maakhdir
+Restart - mapikh aalshaareta - ܡܲܗ݇ܦܸܟ݂ ܠܫܵܪܘܵܝܬܵܐ
+Restart, start from beginning - mshaa'ree min qamta - ܡܫܵܪܹܐ ܡܸܢ ܥܸܩܪܵܐ
 Reset - 
 
 setup – maqamta
 setting up - ma’qumi - ܡܲܩܘܿܡܹܐ 
+
+update - khadkhith - ܚܲܕܚܸܬ݂
 
 Let - shooq
 Allow - shooq
@@ -42,7 +46,7 @@ Don't stay - la poosh
 Exists - it'tin
 Doesn't exist - lit'tin
 
-Insert - maav'vir
+Insert - maa'vir
 Continue - 
 Persist - 
 Corrupt - khreeva, khrevta
@@ -101,8 +105,13 @@ A session, a sitting - (?) qtisma - ܩܬܝܼܣܡܵܐ
 
 Will take - shaqil - ܫܵܩܹܠ
 
-Download (taking) - Shqalta
-Upload (sending) - Shaadaartaa
+Download (verb) - maasslee - ܡܲܨܠܹܐ
+Download (noun) - maassleta - ܡܲܨܠܵܝܬܵܐ
+Downloads - maassle'te - 
+
+Upload (verb) - massiq - ܡܵܣܸܩ
+Upload (noun) - massooqa, mas’saqta - ܡܲܣܲܩܬܵܐ / ܡܲܣܘܿܩܵܐ
+Uploads - massaq’yate - 
 
 Store - 
 Storage - 
