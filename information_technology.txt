@@ -4,10 +4,17 @@ ____
 Send - shaader
 Receive - shkool
 
-Input (verb) - mavaartaa
-Input (noun) - minvaartaa
-Output (verb) - maplaataa
-Output (noun) - minplaataa
+Input (verb), insert - maavir
+Input, act/process of inputting - maavaartaa
+Input, from input - minvaartaa
+Inputting - maavooraa
+Is inputting - maavoorele / maavoorelaa
+
+Output (verb), take out - maaplid
+Output, act/process of outputting - maaplaad'taa
+Output, from output - minplaad'taa
+Outputting - maaploodaa
+Is outputting - maaploodele, maaploodela
 
 Use - maplikh
 Work - poolookh
