@@ -42,6 +42,7 @@ Changes - shakhlapyateh/shakhlapyaye
 Will change - shakhlipa/shakhlip
 Changed - shookhlipta/shookhlipa
 
+ - dweeqena
 Compare, match - mad'wiq - ܡܲܕܒܸܩ
 Comparing, matching - mad’wuqi - ܡܲܕܒ݂ܘܼܩܹܐ
 Comparison - mad'waqta
@@ -111,7 +112,13 @@ Distribute - gaardim - ܓܲܪܕܸܡ
 Distributing - gaar'dumi - ܓܪܕ݂ܘܡܹܐ
 Distribution - gaardomta
 
+Take (to somewhere) - labil
+Move/take to the other side - labil lo geeba
+Move/take it to the other side of the equation - labila lo geeba d'mashwia'noota
+
 Balance out, equalize, offset - map'khoome - ܡܲܦܚܘܼܡܹܐ
+
+Equation - mashwia'noota - ܡܲܫܘܝܵܢܘܼܬܵܐ
 
 Opposite - daalqoovlaaya - ܕܲܠܩܘܼܒ݂ܠܵܝܵܐ
 Separate - proosh
