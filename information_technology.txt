@@ -4,8 +4,10 @@ ____
 Send - shaader
 Receive - shkool
 
-Input - 
-Output - 
+Input (verb) - mavaartaa
+Input (noun) - minvaartaa
+Output (verb) - maplaataa
+Output (noun) - minplaataa
 
 Use - maplikh
 Work - poolookh
@@ -14,11 +16,15 @@ Workers - palakhih
 
 Daemon (angel) - malakha
 
+Start - shaaree
 Run - maarkhid
+Pause - ba'hil - ܒܵܗܹܠ
 Stop - maklee
-Pause - 
-Restart - minqamta
+Restart - door aalshaareta
 Reset - 
+
+setup – maqamta
+setting up - ma’qumi - ܡܲܩܘܿܡܹܐ 
 
 Let - shooq
 Allow - shooq
@@ -32,7 +38,7 @@ Doesn't exist - lit'tin
 Insert - maav'vir
 Continue - 
 Persist - 
-Corrupt - 
+Corrupt - khreeva, khrevta
 
 Operation - 
 Halt - 
@@ -66,7 +72,7 @@ Window - oo'zinta - ܐܘܼܙܸܢܬܵܐ
 Window - zwidna - ܙܘܸܕ݂ܢܵܐ
 Folder - 
 Page - 
-Word - 
+Word - khaabraa
 Letter - 
 Color - 
 Font - 
