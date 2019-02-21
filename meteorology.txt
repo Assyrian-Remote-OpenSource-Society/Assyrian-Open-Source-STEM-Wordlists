@@ -64,6 +64,10 @@ Sun - shimsha - ܫܸܡܫܵܐ
 
 Sunny - shimsha’na - ܫܸܡܫܵܢܵܐ
 
+Sunset - ginet shimsha -  ܓܢܵܝܬ ܫܸܡܫܵܐ
+
+Nightfall, close of the day - ginet yooma - ܓܢܵܝܬ ܝܵܘܡܵܐ
+
 The moon - sahra -ܣܲܗܪܵܐ
 
 Full moon (filled moon) - kis sah’malia - ܟܸܣܐܵܐ ܡܲܠܝܵܐ
