@@ -25,7 +25,7 @@ Reduction - bsaartaa/Bsaaraa
 
 Will increase - zeda/zayid
 Will increase - bzeda/bza'yid
-More - zoda - ܙܵܘܕܵܐ
+More, greater - zoda - ܙܵܘܕܵܐ
 More, additional, extra - zodanta/zodana - ܙܵܘܕܵܢܵܐ
 Excess, surplus, abundance, superiority - zodayoota
 Increase - mazyid
@@ -41,6 +41,10 @@ Changes - shookhlapooyateh/shookhlapooyaye
 Changes - shakhlapyateh/shakhlapyaye
 Will change - shakhlipa/shakhlip
 Changed - shookhlipta/shookhlipa
+
+Compare, match - mad'wiq - ܡܲܕܒܸܩ
+Comparing, matching - mad’wuqi - ܡܲܕܒ݂ܘܼܩܹܐ
+Comparison - mad'waqta
 
 Pair - zoq'eh
 
@@ -75,34 +79,39 @@ Derive -
 Derivation - 
 Derivative - 
 
-Add (place) - mat'tee
+Add (bring/put) - mat'tee 
+Add (put together) - kinoosh
 Subtract (take), deduct - shqool
 Multiply - mazyid
 Divide - pa'ligh - ܦܵܠܹܓ
 - mpa'le - ܡܦܵܠܸܓ݇
+
+Addition (bringing/placement) - mat'teta
+Addition (gathering together) - kinashta, kinasha
+Subtraction - shqalta, shqala - ܫܩܵܠܵܐ / ܫܩܵܠܵܐ
+Multiplication - mazyat'ta, moozyata
+Division - pal’aita - ܦܲܠܥܝܬܵܐ
+Division - [palgoota], poolagha - ܦܽܘܠܳܓ݂ܳܐ / ܦܘܼܠܵܓ݂ܵܐ
+
+Dividing - pal’ooyi -ܦܲܠܥܘܼܝܹܐ
+Divided - poolga - ܦܘܼܠܓܵܐ
+Divided - poolge-ia - ܦܘܼܠܓܝܼܵܐ
+Divisible - mistaad'qana - ܡܸܣܬܲܕܩܵܢܵܐ
+Divider - mpaalghana - ܡܦܲܠܓ݂ܵܢܵܐ
+Dividend - mithpal’gana - ܡܸܬ݂ܦܲܠܓܵܢܵܐ
+Divisor, factor - pale’iana - ܦܲܠܥܝܵܢܵܐ
+Divisor - palganta/palgana (?)
+Quotient - paloo’looghoota - ܦܵܠܘܿܓ݂ܘܼܬܵܐ
+Quotient - palgoota/palgooya (?)
+Exponent - 
+Power - khela
+? Vary between states - plaga - ܦܠܵܓ݂ܵܐ
+
 Distribute - gaardim - ܓܲܪܕܸܡ
 Distributing - gaar'dumi - ܓܪܕ݂ܘܡܹܐ
 Distribution - gaardomta
 
-Addition - mat'teta
-Subtraction - shqalta, shqala - ܫܩܵܠܵܐ / ܫܩܵܠܵܐ
-Multiplication - mazyat'ta, moozyata
-Division - pal’aita - ܦܲܠܥܝܬܵܐ
-To divide - pal’ooyi -ܦܲܠܥܘܼܝܹܐ
-Divisor, factor - pale’iana - ܦܲܠܥܝܵܢܵܐ
-Divisor - palganta/palgana (?)
-Quotient - palgoota/palgooya (?)
-
-Division - [palgoota], poolagha - ܦܽܘܠܳܓ݂ܳܐ / ܦܘܼܠܵܓ݂ܵܐ
-Divisible - mistaad'qana - ܡܸܣܬܲܕܩܵܢܵܐ
-Divider - mpaalghana - ܡܦܲܠܓ݂ܵܢܵܐ
-Dividend - mithpal’gana - ܡܸܬ݂ܦܲܠܓܵܢܵܐ
-Divided - poolga - ܦܘܼܠܓܵܐ
-Divided - poolge-ia - ܦܘܼܠܓܝܼܵܐ
-Quotient - paloo’looghoota - ܦܵܠܘܿܓ݂ܘܼܬܵܐ
-Exponent - 
-Power - khela
-? Vary between states - plaga - ܦܠܵܓ݂ܵܐ
+Balance out, equalize, offset - map'khoome - ܡܲܦܚܘܼܡܹܐ
 
 Opposite - daalqoovlaaya - ܕܲܠܩܘܼܒ݂ܠܵܝܵܐ
 Separate - proosh
@@ -111,7 +120,7 @@ The separate one - ou preesha - ܗܿܘ ܦܪܝܼܫܵܐ
 
 Same - haman - ܗܵܡܵܢ
 Half - palga
-Whole, all - chooleh
+Whole, all - kooleh
 
 Sum - 
 Multiple - ..., da'ne
