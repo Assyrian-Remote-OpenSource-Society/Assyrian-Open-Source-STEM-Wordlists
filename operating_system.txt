@@ -22,11 +22,12 @@ System Operation
 __
 
 boot - 
-start (hardware) / turn on - tapee
+start (hardware) / turn on - tapee, matpee
+start (software) - shaaree
 shutdown - maajmee
 restart - maakhdir
 sleep - madmikh
-wake - maqyim
+wake - maqim
 
 
 System Terms
@@ -51,7 +52,7 @@ flaw -
 problem - 
 cause - 
 caused - 
-occur - oya
+occur - hoya
 occurred - veela
 processing - vada
 processed - vidla
@@ -78,7 +79,7 @@ modify - shakhlip
 overwrite - ktoov aalo
 ignore - 
 exit - plood
-wait - sooboor (loan word?)
+wait - sboor (loan word?)
 remember - tookhoor
 remind - madkhir
 forget - manshee
@@ -115,7 +116,7 @@ drag - gooroosh
 drop - mampil
 beginning - qamai, qamtah
 end - baaraai
-again - minqamtah
+again - kheena, midre
 before - min’qam
 after - min’baar
 back - baaraai
@@ -130,7 +131,7 @@ receive - shkool
 deliver - maamdee
 mirror - nora
 late - marqalta
-timed-out - moorqila
+timed-out - moorqila, min daanaa empila
 waiting - bisbara
 download - shkool
 upload - mat'tee 
@@ -151,7 +152,7 @@ loss - moobsaaraa (?)
 insert - maavir 
 tear - jaambir
 clean - khaal’lil
-position - dookta
+position - dooka/dookta
 view - khizetah (?)
 head - reeshah
 foot - aqlah
@@ -162,7 +163,7 @@ right - raastaa
 side - geeba
 sides - geebane
 lateral - geebaya (?)
-
+Smoothing, making surface even - shoo’aya - ܫܘܼܥܵܥܵܐ
 
 Measurement
 __
