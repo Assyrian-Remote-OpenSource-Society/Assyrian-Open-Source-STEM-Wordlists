@@ -42,7 +42,7 @@ Changes - shakhlapyateh/shakhlapyaye
 Will change - shakhlipa/shakhlip
 Changed - shookhlipta/shookhlipa
 
- - dweeqena
+They are matching / matched - dweeqena
 Compare, match - mad'wiq - ܡܲܕܒܸܩ
 Comparing, matching - mad’wuqi - ܡܲܕܒ݂ܘܼܩܹܐ
 Comparison - mad'waqta
@@ -71,15 +71,16 @@ Differentiate - maprish
 Differentiation - mparshoota - ܡܦܲܪܫܘܼܬܵܐ
 Differentiated - preesha
 
-Sum - 
-Integral - 
-Integrate - 
-Integration - 
-Integrated
+Sum - kanoosha
+Integrate - mak'nish
+Integral - b'kinisha
+Integration - mak'nasha
+Integrated - mook'nishta / mook'nisha
 
-Derive - 
-Derivation - 
-Derivative - 
+Derive - maaplidt
+Derivative - b'plaadtaa
+Derivation - maaplaadtaa
+Derived - moop'lidtaa
 
 Add (bring/put) - mat'tee 
 Add (put together) - kinoosh
@@ -155,7 +156,7 @@ Unknown, indeterminate, uncertain - m’paarsha - ܡܦܲܪܫܵܐ
 
 Result - map’qana - ܡܲܦܩܵܢܵܐ
 
-Outcome - plata - ܦܠܵܛܵܐ
+Outcome - pladta - ܦܠܵܛܵܐ
 
 A quantity, an amount, a quota - kma’iutha -ܟܡܵܝܘܼܬ݂ܵܐ
 
