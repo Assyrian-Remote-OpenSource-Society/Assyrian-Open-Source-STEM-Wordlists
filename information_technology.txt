@@ -46,10 +46,11 @@ Don't stay - la poosh
 Exists - it'tin
 Doesn't exist - lit'tin
 
-Choose - naqee
 Select - gabi – ܓܲܒܹܐ
 To make to select, to prompt(?) – mag'booyi – ܡܲܓܒ݂ܘܿܝܵܐ
 Selection - gabeeya – ܓܵܒܝܐ
+Selector – paseeqa – ܦܵܣܝܼܩܵܐ
+Choose - mnaqi – ܡܢܵܩܹܐ
 To prefer - manssikh - ܡܲܢܨܸܚ
 Preference, favorite - matwa - ܡܲܛܐܒ݂ܵܐ
 
