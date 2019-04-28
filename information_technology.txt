@@ -46,6 +46,13 @@ Don't stay - la poosh
 Exists - it'tin
 Doesn't exist - lit'tin
 
+Choose - naqee
+Select - gabi – ܓܲܒܹܐ
+To make to select, to prompt(?) – mag'booyi – ܡܲܓܒ݂ܘܿܝܵܐ
+Selection - gabeeya – ܓܵܒܝܐ
+To prefer - manssikh - ܡܲܢܨܸܚ
+Preference, favorite - matwa - ܡܲܛܐܒ݂ܵܐ
+
 Insert - maa'vir
 Continue - 
 Persist - 
@@ -93,6 +100,7 @@ Outside - va'dar
 
 Keep - khamee
 Waste - raap'pee
+Clean - da'khooyi – ܕܵܟ݂ܘܼܝܹܐ
 
 Increase - mazyid
 Decrease - maabsir
@@ -120,8 +128,6 @@ Time - daanaa - ܥܕܵܢܵܐ
 
 Warning, caution - mi’rana - ܡܥܝܼܪܵܢܵܐ
 Error - khildaa
-
-Preference, favorite - matwa - ܡܲܛܐܒ݂ܵܐ
 
 A hint, a clue - ramu’zoota (?) - ܪܵܡܘܿܙܘܼܬܵܐ
 
