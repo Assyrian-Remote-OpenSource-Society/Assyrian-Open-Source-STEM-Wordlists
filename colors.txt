@@ -1,0 +1,16 @@
+color - gawna
+colors - gawne
+black - koma
+gray - qetmaya
+white - khwara
+purple - ergwana
+violet - mneshkhana
+blue - zarqa / zarqaya
+blue (indigo) - mela / melana
+turquoise - sipilaya
+green - yaroqa
+yellow - shaotha
+orange - etrokhaya
+pink - smoqa patokha
+red - smoqa
+brown - shakhma
