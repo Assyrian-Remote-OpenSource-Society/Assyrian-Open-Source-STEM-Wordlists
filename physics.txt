@@ -13,11 +13,13 @@ Had descended - sleeteva/silyeva
 Will descend, will [move] down - saalyaa/saali
 Descend, [move] down (commanding verb) - slee
 
-Displacement, movement - jwajta
-Moved, displaced - jwijta/jweeja
-Will move, will displace - joja/jawij
-Move (verb; command) - majwij
-Move, displace (commanding verb) - jooj
+*[Next 6 lines include loan root from Arabic, jwj]
+*Displacement, movement - jwajta
+*Movement - jooja - ܓ̰ܘܼܓ̰ܵܐ
+*Moved, displaced - jwijta/jweeja
+*Will move, will displace - joja/jawij
+*Move (verb; command) - majwij
+*Move, displace (commanding verb) - jooj
 
 Standing, at a state of not moving - kleta
 Standing, stopped, paused - kleeta/kilya
@@ -65,8 +67,14 @@ Near - qoorba
 Distancing (away) - rakhqoona
 Nearing - qarboona
 
-Distance (farness) - rikhqayoota
-Closeness - qoorbayoota
+Distance (farness) - rikhqayootaܩܪܒ
+Proximity (closeness) - qoorbayoota
+
+Away, far, distant (root) - rkhq - ܪܚܩ
+Near, close, proximate (root) - qrb - ܩܪܒ
+
+Approachment, to get nearer, to get closer - qraba - ܩܪܵܒܵܐ
+To approach, to touch - qariw - ܩܵܪܹܒ݂
 
 Empty - speeqa/spiqta
 Filled - milya/mleeta
