@@ -59,7 +59,7 @@ Draw, pull - gooroosh
 Raise - maarim
 Lower - mak'kip
 
-Move - majwij
+*Move (loan root, Arabic) - majwij
 
 Far - rikhqa
 Near - qoorba
