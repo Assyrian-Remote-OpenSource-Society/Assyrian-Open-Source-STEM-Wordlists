@@ -4,7 +4,7 @@ The purpose of this repository is to provide extensive Assyrian wordlists for di
 
 ## Motivation
 
-Writing a modern Mathematics or Physics textbook in Assyrian is a difficult endeavor for any Assyrian who is only familiar with the respective terminology in English, Arabic, Farsi, and/or any other language.
+Writing a modern Mathematics or Physics textbook in the Assyrian language is a difficult endeavor for any Assyrian-speaker who is only familiar with the respective terminology in English, Latin, Arabic, Farsi, and/or any other language.
 
 Finding, selecting, and compiling words is a time-consuming process, which could slow down an author who is not already familiar with the Assyrian vocabulary for the respective topic. With the existence of pre-compiled wordlists, authors of modern Assyrian STEM textbooks can produce their work at a much faster rate.
 
