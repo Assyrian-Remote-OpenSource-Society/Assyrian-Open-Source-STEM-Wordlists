@@ -1,6 +1,7 @@
 although - apin - ܐܵܦܸܢ
 
 and - ou
+#Akkadian: u
 
 as (like) - akh - ܐܲܝܟ݂
 as (time of, Eastern) - ga'hit
