@@ -2,7 +2,28 @@ Physics
 ____
 
 Time - daanaa - ܥܕܵܢܵܐ
+#Akkadian: adānu, dāru
+
 Space, place - dookta/dooka
+#Akkadian (place, site, location; a remote/secret place; open space): ašru; dūtu; tarpašû
+
+Always, constantly, permanently – mthoom – ܡܬ݂ܘܿܡ
+#Akkadian: ginâ
+
+Constant – mkat'rana - ܡܟܲܬܪܵܢܵܐ
+#Akkadian: kaiāna
+
+Natural – i'dia, eya'daya (?) – ܥܝܵܕܵܝܵܐ / ܝܼܕܝܼܥܵܐ
+#Akkadian: kaiamānīu
+
+Way, path, trail – oorkha
+#Akkadian: gerru
+
+Force, power – khela
+#Akkadian: dunnu
+
+Body - paagraa (usually human or animal)
+#Akkadian: pagru
 
 Will ascend, will [move] up - seqa/sayiq
 Ascend, [move] up (verb; command) - sooq
@@ -62,7 +83,10 @@ Lower - mak'kip
 *Move (loan root, Arabic) - majwij
 
 Far - rikhqa
+#Akkadian: raḫḫīqu, rūqiš, nesû
+
 Near - qoorba
+#Akkadian: qurbu
 
 Distancing (away) - rakhqoona
 Nearing - qarboona
