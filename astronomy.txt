@@ -3,6 +3,8 @@ Astronomy
 Planetary observation - dayooqoota - ܕܵܝܘܿܩܘܼܬܵܐ
 
 Planet - taia - ܛܵܥܝܵܐ
+Planet – pallidta – ܦܲܠܝܼܛܵܐ
+#Akkadian: bibbu
 
 Earthly, terrestrial, telluric - aaraa’naia - ܐܲܪܥܵܢܵܝܵܐ
 
@@ -13,10 +15,18 @@ Terrestrial, of or belong to dry land - ee osha’naia - ܝܲܒ݂ܫܵܢܵܝܵܐ
 Earth - aaraa (also means: solid ground) - ܐܲܪܥܵܐ
 
 Mars - narigh - ܢܵܪܝܼܓ݂
+#Akkadian: sarru, ṣalbatānu
 
 Jupiter - kekhv bil - ܟܲܘܟ݂ܒܝܼܠ
 Jupiter - bil - ܒܹܝܠ
+#Akkadian: Nēberu, Sagmegar, Šulpaea 
 
 Saturn - kiwan - ܟܹܐܘܵܢ
+#Akkadian: Kayyamānu
 
 Star, a heavenly body (other than the sun , the moon , comets, meteors and the nebulae) - kikhwa - ܟܸܟ݂ܒ݂ܵܐ
+Star – kaukhwa - ܟܲܘܟ̣ܒ̣ܵܐ
+#Akkadian: kakkabu
+
+Galaxy – mauzalta – ܡܲܘܙܵܠܬܵܐ
+#Akkadian (galaxy, milky way): ṣerret šamê
