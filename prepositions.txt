@@ -13,16 +13,20 @@ ma’ - [turns words to actions/verbs] - ܡܲ
 
 l’ - on / onto / to - ܠ
 — he came to Urmi - teele l’Urmi - ܐܬܹܐ ܠܹܗ ܠܐܘܿܪܡܝܼ
+#Akkadian (on / onto / over / above): al, el, eli, elu, ili
 
 aal - on, over and in contact with, at the surface of and supported by, upon, above, on top of - ܥܲܠ
 — put it on the ground - mat'teela aal aaraa
+#Akkadian (on / onto / over / above): al
 
 ki - [makes the past indefinite, implying it has been the case] - ܟܹܐ
 — a verbal prefix that when placed before the subjunctive of the verb indicates the indicative mode, the sign of the habitual and historic present and imperfect, not used in Tiari
 — baayenaa: I want her -> ki baayena: I [have been wanting and] want her
 — yaadin: I [will] know -> ki yaadin: I [already] know
 
-min - from (a starting point) , out of , at , on , of  - ܡܸܢ
+min - from (a starting point), out of, at, on, of, with (in company of someone)  - ܡܸܢ
+#Akkadian (from / out of / since, after): issu, ištu , ultu , eluštu , iltu , ilta , ilti 
+#Akkadian (with, in company of someone): ittû
 
 bid - (in that, on account of, because, for this reason, a compound of)(?) - ܒܕ
 — ܒܝܼܕ
@@ -35,4 +39,20 @@ al’haid - given that, since, whereas, because of - ܥܲܠ ܗܵܝ ܕ
 
 am' - with, together with, among / amongst / amidst - ܥܲܡ
 — am’oodaali; moidaale - with together, amongst each other
+#Akkadian (at, next to, among): qanni
 
+bood - about
+#Akkadian: ammār
+
+bil - between - ܒܹܝܠ
+#Akkadian (in the middle, in the midst) – qabsi
+
+go, goo - in, into, within, inside, in the midst - ܓܵܘ
+#Akkadian (in, into, from, with; inside; in the midst, in the middle): in, ina; qereb; qabsi
+#Akkadian (in, within, inside, among, amid, in the midst) - ina qereb
+
+after - minbaar
+#Akkadian: urki
+
+without - b'la
+#Akkadian: balu
