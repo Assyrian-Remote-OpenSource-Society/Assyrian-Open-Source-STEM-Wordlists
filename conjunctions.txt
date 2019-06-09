@@ -5,6 +5,7 @@ and - ou
 as (like) - akh - ܐܲܝܟ݂
 as (time of, Eastern) - ga'hit
 as (time of, Classical) - kadh
+#Akkadian (as / like): kī, akkī
 
 because - mitl - ܡܸܛܠ
 *because - sabab (loan word?) - ܣܵܒܵܒ
@@ -31,6 +32,9 @@ per, in accordance with, according to - mitl d - ܡܸܛܠ ܕ
 so - akh - ܐܲܝܟ݂
 
 until, till - ‘hal - ܗܲܠ
+
+when - eeman
+#Akkadian (when, as, like, that): kīma
 
 while - iman - ܐܝܼܡܲܢ
 
