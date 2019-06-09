@@ -7,7 +7,9 @@ as (time of, Eastern) - ga'hit
 as (time of, Classical) - kadh
 
 because - mitl - ܡܸܛܠ
-because - sabab - ܣܵܒܵܒ
+*because - sabab (loan word?) - ܣܵܒܵܒ
+
+because not - badla - ܒܵܕܠܵܐ
 
 but - eena - ܐܝܼܢܵܐ
 
@@ -19,6 +21,7 @@ if - iloo - ܐܸܠܘܿ
 * accompanying adverb: else, if not, or else / otherwise - in'la, i'nikhwa, lookha - ܐܸܢ ܠܵܐ / ܐܸܢܸܚܘܵܐ / ܠܘܿܟ݂ܵܐ  
 
 nor - oopla - ܐܘܼܦ ܠܵܐ
+nor, neither, not even - apla - ܐܵܦܠܵܐ
 
 or, either - yaa - ܝܵܐ
 #Akkadian: lū, ammar
