@@ -37,6 +37,9 @@ until, till - ‘hal - ܗܲܠ
 when - eeman
 #Akkadian (when, as, like, that): kīma
 
+whenever - koodaanna, eeman'd
+#Akkadian: matimê, immatimê
+
 while - iman - ܐܝܼܡܲܢ
 
 while (the time of) - edaan'd / edaanaa'd
