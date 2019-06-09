@@ -16,8 +16,8 @@ Constant – mkat'rana - ܡܟܲܬܪܵܢܵܐ
 Natural – i'dia, eya'daya (?) – ܥܝܵܕܵܝܵܐ / ܝܼܕܝܼܥܵܐ
 #Akkadian: kaiamānīu
 
-Way, path, trail – oorkha
-#Akkadian: gerru
+Way, path, trail; a road, a pathway – oorkha
+#Akkadian (way / path / trail; a road, a pathway): gerru; urḫu
 
 Force, power – khela
 #Akkadian: dunnu
