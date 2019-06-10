@@ -4,7 +4,7 @@ which - im
 #Akkadian (which, who, that, "the one of, of"): ša
 
 who - manee, ma-y
-#Akkadian: 
+#Akkadian: mannu
 
 whoever you are - at manee wit, eemanee'd eewit / eewat, ma-yid at eewit / eewat
 #Akkadian: attimannu
