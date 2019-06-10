@@ -25,21 +25,28 @@ ki - [makes the past indefinite, implying it has been the case] - ܟܹܐ
 — yaadin: I [will] know -> ki yaadin: I [already] know
 
 min - from (a starting point), out of, at, on, of, with (in company of someone)  - ܡܸܢ
-#Akkadian (from / out of / since, after): issu, ištu , ultu , eluštu , iltu , ilta , ilti 
+#Akkadian (from / out of / since, after): issu, ištu , ultu , eluštu , ildu, iltu , ilta , ilti 
 #Akkadian (with, in company of someone): ittû
+- min X hal Y - from X to Y (place), from X till Y (time)
+- #Akkadian: ildu X adi Y
 
 bid - (in that, on account of, because, for this reason, a compound of)(?) - ܒܕ
 — ܒܝܼܕ
 — baayenaa: I want her -> bid baayena: I will want her
 — aakhlin: I [should] eat -> bid aakhlin: I'm [going to] eat
 
-al d’ - because of - ܥܲܠ ܕ
 
+al d’ - because of - ܥܲܠ ܕ
 al’haid - given that, since, whereas, because of - ܥܲܠ ܗܵܝ ܕ
+#Akkadian (because of, concerning, about): aššum
+#Akkadian: aššu, ašša, aššut
 
 am' - with, together with, among / amongst / amidst - ܥܲܡ
 — am’oodaali; moidaale - with together, amongst each other
 #Akkadian (at, next to, among): qanni
+
+hal - to, until, as far as
+#Akkadian: adi, adu
 
 bood - about
 #Akkadian: ammār
@@ -51,8 +58,8 @@ go, goo - in, into, within, inside, in the midst - ܓܵܘ
 #Akkadian (in, into, from, with; inside; in the midst, in the middle): in, ina; qereb; qabsi
 #Akkadian (in, within, inside, among, amid, in the midst) - ina qereb
 
-after - minbaar
+minbaar - after
 #Akkadian: urki
 
-without - b'la
+b'la - without
 #Akkadian: balu
