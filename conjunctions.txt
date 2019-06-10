@@ -10,29 +10,42 @@ as (time of, Classical) - kadh
 
 because - mitl - ܡܸܛܠ
 *because - sabab (loan word?) - ܣܵܒܵܒ
+#Akkadian: nēmel, nirit
 
 because not - badla - ܒܵܕܠܵܐ
 
 but - eena - ܐܝܼܢܵܐ
+#Akkadian: ezib
 
 for - qa / qe
+#Akkadian: (a.).*
+# - (an)ni: for me
+# - (ak)ki: for you
+# - (an)nāši: for us
+# - (aš)ši: for her
+# - šūt: that –> aššut: for that, for the sake of, ...
 
 if - en - ܐܸܢ
 if - iloo - ܐܸܠܘܿ
 * accompanying adverb: then - idla - ܐܸܕܠܵܐ
 * accompanying adverb: else, if not, or else / otherwise - in'la, i'nikhwa, lookha - ܐܸܢ ܠܵܐ / ܐܸܢܸܚܘܵܐ / ܠܘܿܟ݂ܵܐ  
+# Akkadian (if): assurri
+# Akkadian (else, if not): ūla
 
 nor - oopla - ܐܘܼܦ ܠܵܐ
 nor, neither, not even - apla - ܐܵܦܠܵܐ
+#Akkadian: lā
 
 or, either - yaa - ܝܵܐ
-#Akkadian: lū, ammar
+#Akkadian: ūl, lū, ammar
 
 per, in accordance with, according to - mitl d - ܡܸܛܠ ܕ
+#Akkadian: pitti, ina pitti
 
 so - akh - ܐܲܝܟ݂
 
 until, till - ‘hal - ܗܲܠ
+#Akkadian: adi, adu
 
 when - eeman
 #Akkadian (when, as, like, that): kīma
@@ -44,6 +57,8 @@ while - iman - ܐܝܼܡܲܢ
 
 while (the time of) - edaan'd / edaanaa'd
 
-yet - haalaam
+yet, still - haalaam
+#Akkadian: ḫurri (?), aḫḫur (?)
 
 yet, except that - ila - ܐܸܠܵܐ
+#Akkadian: ela
