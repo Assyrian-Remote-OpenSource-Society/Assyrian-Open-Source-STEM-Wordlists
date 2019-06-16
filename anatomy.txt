@@ -5,7 +5,7 @@ Skull - qir'qipta - ܩܸܪܩܸܦܬܵܐ
 #Akkadian: gulgullu
 
 Hair (of the head) - s'arta, kosa (loan-word) - ܣܥܲܪܬܵܐ, ܟܵܘܣܵܐ
-#Akkadian:  šārtu (shaartu), pērtu (pertu)
+#Akkadian: šārtu (shaartu), pērtu (pertu)
 
 Hair (of the body) - moosta - ܡܘܼܣܬܵܐ
 #Akkadian: ?
