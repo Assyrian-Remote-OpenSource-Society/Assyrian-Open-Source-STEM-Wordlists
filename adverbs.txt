@@ -19,7 +19,7 @@ together, side-by-side - kis moydaale
 #Akkadian: aḫu ana aḫu
 
 beside - kislid, algisa d' - ܟܸܣ ܠܕ, ܠܓܸܣܵܐ ܕ
-#Akkadian: ina aḫu 
+#Akkadian: ina aḫu, ina idi
 
 how - dakh, dakhee
 #Akkadian: kī, akī, akê, akkāʾi, akkâya, ēkā'i, kīkî, kēkē
