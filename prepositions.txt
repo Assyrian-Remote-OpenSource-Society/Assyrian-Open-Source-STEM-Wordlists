@@ -26,7 +26,7 @@ ki - [makes the past indefinite, implying it has been the case] - ܟܹܐ
 
 min - from (a starting point), out of, at, on, of, with (in company of someone)  - ܡܸܢ
 #Akkadian (from / out of / since, after): issu, ištu , ultu , eluštu , ildu, iltu , ilta , ilti 
-#Akkadian (with, in company of someone): ittû
+#Akkadian (with, in company of someone): itti, ittû (ittoo)
 - min X hal Y - from X to Y (place), from X till Y (time)
 - #Akkadian: ildu X adi Y
 
