@@ -29,7 +29,7 @@ Lens, lens of the eye - gama - ܓܵܡܵܐ
 #Akkadian: ša-tāmarti (sha-taamarti)
 
 Eyesocket, an orbit - garma d'ayna - ܓܲܪܡܵܐ ܕܥܲܝܢܵܐ
-#Akkadian: ?
+#Akkadian: uppu ēni (?)
 
 Eyelid, eyelash - tilpa - ܛܸܠܦܵܐ
 #Akkadian: agap īni (agap eeni), kappi ēni (kappi eni)
@@ -53,7 +53,7 @@ Mustache, moustache, hair above lip - sinboo'lali (loan-word) - ܨܸܢܒܘܼ̈ܠ
 Mouth - pooma, poom'ma - ܦܘܡܵܐ
 #Akkadian: pû (poo)
 
-Mouth opening - ?
+Mouth opening - biz d'poo'ma (?)
 #Akkadian: pīt pî (peet pee)
 
 Tooth - kika, keeka, keeke (plural) - ܟܹܟܵܐ
@@ -83,9 +83,225 @@ Chin - kil'zooza, chanikta (loan-word) - ܟܵܠܙܘܼܙܵܐ, ܟ̰ܵܢܸܟܬܵܐ
 Beard - diqna, daqna - ܕܲܩܢܵܐ
 #Akkadian: ziqnu
 
+Joint (skeletal) - shi'riate, ias'sseela - ܫܸܪ̈ܝܵܬܹܐ, ܝܲܨܝܼܠܵܐ
+#Akkadian: sisītu (?), šašu (?)
+
 Shoulder - qerqudj, roosha - ܪܘܼܦ̮ܫܵܐ, ܩܲܪܩܘܼܓ̰
 #Akkadian: naglabu, būdu (boodu)
 
 Shoulder-blade, the scapula - katpa - ܟܲܬܦܵܐ
 #Akkadian: rapšu (rapshu)
 
+Chest - khoodba - ܚܘܼܕܒܵܐ
+#Akkadian: bāntu, irtu, birti aḫu (birti akhu)
+
+Rib - ila - ܐܸܠܥܵܐ
+#Akkadian: ṣēlu
+
+Arm - drana - ܕܪܵܥܢܵܐ
+#Akkadian: zuruḫ, aḫu (akhu)
+
+Armpit - gapa, shkhata - ܓܲܐܦܵܐ, ܫܚܵܬܵܐ
+#Akkadian: uppi aḫu, ḫuppi aḫu (?)
+
+Elbow - ku'a, qoor'sla - ܟܘܿܥܵܐ, ܩܘܼܪܨܠܵܐ
+#Akkadian: kiṣir ammiti 
+
+Forearm - ammeta - ܐܲܡܬܵܐ
+#Akkadian: ammatu
+
+Wrist - kharqta d'eeda - ܚܲܪܩܛܵܐ ܕܐܝܕܵܐ
+#Akkadian: sisītu ritti
+#Akkadian (wrist, joint): kimkimmu, kinkimmu
+
+Hand - eeda, eedate (plural) - ܐܝܼܕܵܐ, ܐܝܼ̈ܕܵܬܹܐ
+#Akkadian: qātu, kappu
+
+Palm (of the hand) - knoonta, knoonta d'eeda - ܟܢܘܿܢܬܵܐ
+#Akkadian: pušku
+
+Finger - soo'ba / soo'pa, soo'bate / soo'pate (plural) - ܨܸܒܥܵܐ, ܨܘܼܒܸܥܬܵܐ
+#Akkadian: ubānu, upānu
+
+Thumb - krata, soo'ba goorta - ܟܪܵܬ݂ܵܐ
+#Akkadian: ubānu rabītu
+
+Index finger - mat'tookhta - ܡܲܛܘܼܚܬܵܐ
+#Akkadian: ubānu šanītu 
+
+Middle finger - sooba bil'pelga (?) - ܨܸܒܥܵܐ ܒܝܹ ܦܲܠܓܵܐ
+#Akkadian: ubānu qablītu
+
+Second finger - ?
+#Akkadian: ubānu šanû, ubānu šanītu (?)
+
+Little finger - soo'ba soorta - ܨܸܒܥܵܐ ܙܥܘܿܪܬܵܐ
+#Akkadian: ubānu ṣeḫertu
+
+Fingertip - ?
+#Akkadian: appi ubāni
+
+Fingernail - ti'poorta, ti'poortid eeda - ܛܸܦܘܼܪܬܵܐ, ܛܸܦܘܼܪܬܵܐ ܕܐܝܼܕܵܐ
+#Akkadian: ṣupur ubāni 
+
+Hip, hips, waist - gi'nishia, tana, khrota (?) - ܓܸܢܸܫܝܵܐ, ܛܲܢܵܐ, ܚܪܘܿܬܵܐ
+#Akkadian: qablu
+
+Leg - righla, riqla - ܪܸܓ݂ܠܵܐ
+#Akkadian: purīdu
+
+Knee - birka - ܒܸܪܟܵܐ
+#Akkadian: birku, burku
+
+Lower leg, calf (of the leg) - keesa d'aqla, taloota -	ܟܸܪ݇ܣܵܐ ܕܐܲܩܠܵܐ, ܬܲܠܘܿܬ݂ܵܐ
+#Akkadian: kimṣu, kinṣu (?), piṭru (?)
+
+Ankle - qoorselaa, kharqta d'aqla - ܚܲܪܩܛܵܐ ܕܐܲܩܠܵܐ
+#Akkadian: kursinnu, kiṣallu
+
+Foot - aqla - ܐܲܩܠܵܐ
+#Akkadian: šepi
+
+Ball of the foot - ?
+#Akkadian: suḫār šepi, zuḫār šepi
+
+Heel (of the foot) - eqbaa, itshka, khaqta - ܥܸܦܒܵܐ, ܐܸܟ̰ܟܵܐ, ܚܲܪܩܛܵܐ
+#Akkadian: eqbu, asīdu
+
+Sole (of the foot) - knoonta, knoonta d'aqla - ܟܢܘܿܢܬܵܐ
+#Akkadian: šaplān šēpi
+
+Toe - soob' d'aqla (soo'bid aqla) - ܨܸܒܥܵܐ ܕܐܲܩܠܵܐ
+#Akkadian: ubān šēpī 
+
+Big toe - krat righla - ܟܪܵܬ ܪܸܓ݂ܠܵܐ
+#Akkadian: ?
+
+Tiptoe (tip of the toe) - ?
+#Akkadian: appu ša ubān šēpi
+
+Toenail - dtoopir d'aqla - ܛܸܦܘܼܪܬܵܐ ܕܐܲܩܠܵܐ
+#Akkadian: ṣupur ubān šepi
+
+Nail (of fingers/toes) - tepraa - ܛܶܦ݂ܪܳܐ
+#Akkadian: ṣupru
+
+A socket, a hole, a pit, a cavity - biza
+#Akkadian: uppu, ḫuppu, ḫurru
+
+Genitals - makhshna, pu'garma - ܡܲܚܣܢܵܐ, ܦܘܿܓܲܪܡܵܐ
+#Akkadian: qallû
+
+Penis - era, zoo'bana - ܐܹܝܪܵܐ, ܙܘܼܠܒܵܢܵܐ
+#Akkadian: išaru, ušāru
+
+Glans (of the penis) - ?
+#Akkadian: appi ušāri
+
+Foreskin - mopta - ܡܲܘܦܬܵܐ
+#Akkadian: ?
+
+Semen duct (of the penis) -
+#Akkadian: maslaḫ ušāri 
+
+Testicle - ishka, ishkata, ishkate (plural) - ܐܸܫܟܵܐ, ܐܸܫܟܝܼܬܵܐ
+#Akkadian: išku, kalīt birki
+
+Scrotum - poota - ܦܘܼܬܵܐ
+#Akkadian: tukkannāt išku
+
+Vulva - kha'noota - ܚܰܢܽܘܬܳܐ
+#Akkadian: biṣṣūru, biššūru, gabatinnu, gabbatinnu
+
+Labia - ?
+#Akkadian: lipiššati
+
+Prepuce (of the clitoris or penis) - gla'ita, kinpta, oor'loota - ܓܠܵܥܬܵܐ, ܟܸܢܦܬܵܐ, ܥܘܼܪܠܘܼܬܵܐ
+#Akkadian: ?
+
+Clitoris - kipta, glata - ܟܝܼܦܬܵܐ, ܓܠܲܥܬܵܐ
+#Akkadian: ḥanduttu
+
+Vagina - rakhma - ܪܲܚܡܵܐ
+#Akkadian: ūru, ḫurdatu
+
+Uterus, womb - matra - ܡܰܛܪܳܐ
+#Akkadian: šassūru 
+
+Womb, uterine membrane -  rakhmaya, merb'a - ܪܲܚܡܵܝܵܐ, ܡܲܪܒܥܵܐ
+Akkadian: ibaḫu, ebaḫu
+
+Ovary - ?
+#Akkadian: ?
+
+Urethra - khleela - ܚܠܝܼܠܵܐ
+#Akkadian: muštinnu
+
+Pelvis - ?
+#Akkadian: rapassu
+
+Buttocks - ishta - ܐܸܫܬܵܐ
+#Akkadian: qinnutu
+
+Anus, rectum - tiza, tayza - ܛܝܼܙܵܐ, ܛܲܝܙܵܐ
+#Akkadian: šuburru, erru gamirtu
+
+Nerve, nerve fiber - giada - ܓܝܵܕܵܐ
+#Akkadian: gīdu (?)
+
+Tendon - khashkhoosa - ܚܲܣܚܘܼܣܵܐ
+#Akkadian: matnu
+
+Cartilage - kat'koota - ܟܲܬܟܘܼܬܵܐ
+#Akkadian: naḫāḫutu, naiabtu
+
+Ligament - asra - ܐܲܣܪܵܐ
+#Akkadian: ?
+
+Bone - girma
+#Akkadian: eṣentu
+
+Muscle - ooq'barta - ܥܘܼܩܒܲܪܬܵܐ
+#Akkadian: šer'ānu
+
+Tissue - ?
+#Akkadian: kutmu (?)
+
+Skin - gilda - ܓܸܠܕܵܐ
+#Akkadian: gildu, mašku
+
+Vein - wa'reeda - ܘܵܪܝܼܕܵܐ
+#Akkadian: ušultu
+
+Artery - shi'riana - ܫܸܪܝܵܢܵܐ
+#Akkadian: šer'ānu, šir'ānu 
+
+Heart - libba - ܠܶܒ݁ܳܐ
+#Akkadian: libbu
+
+Lung - proota - ܦܪܘܼܬ݂ܵܐ
+#Akkadian: ḫašû
+
+Esophagus - mabloo'eeta - ܡܲܒܠܘܼܥܝܼܬܵܐ
+#Akkadian: mušerittu
+
+Stomach - keesa - ܟܹܪ݇ܣܵܐ
+#Akkadian: tākaltu, bandillu
+
+Liver - kabdaa - ܟܲܒܕܵܐ
+#Akkadian: gabīdu, kabattu, kabtatu
+
+Pancreas - qidapa shoorta - ܩܹܐܕܵܐ ܦܵܫܘܿܪܬܵܐ
+#Akkadian: ?
+
+Kidney - koo'leeta - ܟܘܼܠܝܼܬ݂ܵܐ
+#Akkadian: kalītu
+
+Gall bladder - mrarta - ܡܪܵܪܬܵܐ
+#Akkadian: martu, muṣṣāltu (?)
+
+Bladder - bi'tina - ܒܹܬܝܼܢܹ̈ܐ
+#Akkadian: ?
+
+Abdomin - karsa - ܟܲܪܣܵܐ
+#Akkadian: karšu
