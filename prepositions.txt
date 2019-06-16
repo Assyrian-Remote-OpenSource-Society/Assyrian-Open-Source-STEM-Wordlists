@@ -35,7 +35,6 @@ bid - (in that, on account of, because, for this reason, a compound of)(?) - ܒ�
 — baayenaa: I want her -> bid baayena: I will want her
 — aakhlin: I [should] eat -> bid aakhlin: I'm [going to] eat
 
-
 al d’ - because of - ܥܲܠ ܕ
 al’haid - given that, since, whereas, because of - ܥܲܠ ܗܵܝ ܕ
 #Akkadian (because of, concerning, about): aššum
@@ -53,6 +52,15 @@ bood - about
 
 bil - between - ܒܹܝܠ
 #Akkadian (in the middle, in the midst) – qabsi
+
+qe, qa - for (the purpose of)
+#Akkadian: ana
+#Akkadian (as a prefix): (a.).*
+# - (an)ni: for me
+# - (ak)ki: for you
+# - (an)nāši: for us
+# - (aš)ši: for her
+# - šūt: that –> aššut: for that, for the sake of, ...
 
 go, goo - in, into, within, inside, in the midst - ܓܵܘ
 #Akkadian (in, into, from, with; inside; in the midst, in the middle): in, ina; qereb; qabsi
