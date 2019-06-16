@@ -17,14 +17,6 @@ because not - badla - ܒܵܕܠܵܐ
 but - eena - ܐܝܼܢܵܐ
 #Akkadian: ezib
 
-for - qa / qe
-#Akkadian: (a.).*
-# - (an)ni: for me
-# - (ak)ki: for you
-# - (an)nāši: for us
-# - (aš)ši: for her
-# - šūt: that –> aššut: for that, for the sake of, ...
-
 if - en - ܐܸܢ
 if - iloo - ܐܸܠܘܿ
 * accompanying adverb: then - idla - ܐܸܕܠܵܐ
