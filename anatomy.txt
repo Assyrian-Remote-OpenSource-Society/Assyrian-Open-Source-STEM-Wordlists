@@ -303,5 +303,5 @@ Gall bladder - mrarta - ܡܪܵܪܬܵܐ
 Bladder - bi'tina - ܒܹܬܝܼܢܹ̈ܐ
 #Akkadian: ?
 
-Abdomin - karsa - ܟܲܪܣܵܐ
+Abdomen - karsa - ܟܲܪܣܵܐ
 #Akkadian: karšu
