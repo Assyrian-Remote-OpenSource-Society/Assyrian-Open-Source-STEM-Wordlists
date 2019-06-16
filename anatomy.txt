@@ -1,0 +1,91 @@
+Head - reesha - ܪܝܼܫܵܐ
+#Akkadian: rēšu (reeshu)
+
+Skull - qir'qipta - ܩܸܪܩܸܦܬܵܐ
+#Akkadian: gulgullu
+
+Hair (of the head) - s'arta, kosa (loan-word) - ܣܥܲܪܬܵܐ, ܟܵܘܣܵܐ
+#Akkadian:  šārtu (shaartu), pērtu (pertu)
+
+Hair (of the body) - moosta - ܡܘܼܣܬܵܐ
+#Akkadian: 
+
+Forehead - qi'ssaa, a'poota - ܩܸܨܵܐ
+#Akkadian: muttu
+
+Face - pa'tā (pa'ta) - ܦܵܬܵܐ
+#Akkadian: pūtu (pootu)
+
+Brain, skull - mookha, mookhta - ܡܘܼܚܵܐ / ܡܘܼܚܬܵܐ
+#Akkadian: muḫḫu (mukh-khu)
+
+Ear - nata, idna - ܢܵܬ݂ܵܐ, ܐܸܕܢܵܐ
+#Akkadian: uznu
+
+Eye - ayna - ܥܲܝܢܵܐ
+#Akkadian: ēnu (eenu)
+
+Lens, lens of the eye - gama - ܓܵܡܵܐ
+#Akkadian: ša-tāmarti (sha-taamarti)
+
+Eyesocket, an orbit - garma d'ayna - ܓܲܪܡܵܐ ܕܥܲܝܢܵܐ
+#Akkadian: ?
+
+Eyelid, eyelash - tilpa - ܛܸܠܦܵܐ
+#Akkadian: agap īni (agap eeni), kappi ēni (kappi eni)
+
+Eyebrow - gweena, gweene (plural) - ܓܒ݂ܝܼܢܵܐ, ܓܒܝܼܢܵܐ
+#Akkadian: šūr īni (shoor eeni)
+
+Nose – na'kheera – ܢܲܚܝܼܪܵܐ
+#Akkadian: naḫīru (nakheeroo), appu
+
+Nostril – shippa, noo'kharta - ܫܸܦܵܐ, ܢܘܼܚܵܪܬܵܐ
+Nostrils - shippe, khroorayn'kheere - ܫܸܦܹ̈ܐ, ܚܪܘܿܪ̈ܲܝ ܢܚܝܼܪܹ̈
+#Akkadian (singular): naḫir (nakhir), piliš appu (pilish appu), nappašu
+
+Lip - sipta, sipte (plural) - ܣܸܦܬ݂ܵܐ
+#Akkadian: ?
+
+Moustache (hair above lip) - sinboo'lali (loan-word) - ܨܸܢܒܘܼ̈ܠܵܠܹܐ
+#Akkadian: sapsupu, sapsapu 
+
+Mouth - pooma, poom'ma - ܦܘܡܵܐ
+#Akkadian: pû (poo)
+
+Mouth opening - ?
+#Akkadian: pīt pî (peet pee)
+
+Tooth - kika, keeka, keeke (plural) - ܟܹܟܵܐ
+#Akkadian (derived from "weapon"): kakku
+
+Gingiva, gums - sheeghre – ܫܝܼܓ݂ܪܹܐ
+#Akkadian: kanzūzu (kanzoozu), kamzūzu (kamzoozu)
+
+Palate - khenkha - ܚܹܢܟ݂ܵܐ
+#Akkadian: ?
+
+Tongue - leeshana - ܠܸܫܵܢܵܐ
+#Akkadian: lišānu (lishaanu)
+
+Throat - ba'looa, baloo'wa - ܒܵܠܘܼܥܵܐ
+#Akkadian: ḫarurtu (kharurtu), napšutu (napshutu)
+
+Neck - qdala - ܩܕܵܠܵܐ
+#Akkadian: gubāru, kišādu, labiānu, lipânu, ṣawārum, tikku
+
+Larynx, flesh under the chin - zanga - ܙܵܢܩܵܐ
+#Akkadian: ?
+
+Chin - kil'zooza, chanikta (loan-word) - ܟܵܠܙܘܼܙܵܐ, ܟ̰ܵܢܸܟܬܵܐ
+#Akkadian: zuqtu
+
+Beard - diqna, daqna - ܕܲܩܢܵܐ
+#Akkadian: ziqnu
+
+Shoulder - qerqudj, roosha - ܪܘܼܦ̮ܫܵܐ, ܩܲܪܩܘܼܓ̰
+#Akkadian: naglabu, būdu (boodu)
+
+Shoulder-blade, the scapula - katpa - ܟܲܬܦܵܐ
+#Akkadian: rapšu (rapshu)
+
