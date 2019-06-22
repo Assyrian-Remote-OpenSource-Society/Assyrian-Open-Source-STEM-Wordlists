@@ -35,6 +35,12 @@ Currently, the wordlists are in text format and they have not been sorted yet. A
 
 ## Contribution
 
+Everyone is welcome to join the effort. Currently, there are three ways to contribute, all of which require a free GitHub account:
+
+1. Join the Assyrian Remote Open Source Society group on GitHub and make changes to this repository directly. For this option, contact Ron Rihoo at rihooron@gmail.com.
+2. Fork the repository, make changes, create pull requests, and wait for one of the group members to merge the changes.
+3. Create an issue explaining the changes that you'd like to make and wait for a group member to make the changes.
+
 This is meant to be a collaborative, open-source effort. Contribute in any way that you can.
 
 ## Limitation
@@ -42,6 +48,8 @@ This is meant to be a collaborative, open-source effort. Contribute in any way t
 Please do not include any loan words. This may be a difficult endeavor, but all words should be Akkadian, Aramaic, or an amalgamation of the two. It's understandable that some words are actually names of inventions, so those may be included where there is no Assyrian alternative.
 
 Arabic words are often obvious, but Turkish and Greek words may not be as obvious to many. So it's anticipated that some loan words will make it through until they are detected and replaced with Assyrian words.
+
+However, it is notable that the Assyrian language may have formed words of its own along the way. So it is possible that, if the word is not Akkadian or Aramaic, then it might not necessarily be a loan word – as it could very well be an Assyrian one, independent of its parent languages.
 
 ## Additional Notes
 
