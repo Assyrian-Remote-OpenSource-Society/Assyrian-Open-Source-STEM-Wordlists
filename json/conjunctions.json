@@ -1,0 +1,232 @@
+[
+	{
+		"english": "although",
+		"eastern phonetic": "apin",
+		"eastern assyriac": "ܐܵܦܸܢ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "and",
+		"eastern phonetic": "u",
+		"eastern assyriac": "ܘ",
+		"western phonetic": "u",
+		"western assyriac": "ܘ",
+		"akkadian": "u",
+		"aramaic": "wǝ",
+		"example": "This and that : aha u a'ya : ܐܵܗܵܐ ܘ ܐܲܝܵܐ : oho u ayo : ܐܳܗܳܐ ܘ ܐܰܝܳܐ"
+	},
+	{
+		"english": "as",
+		"eastern phonetic": "akh",
+		"eastern assyriac": "ܐܲܝܟ݂",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "kī, akkī",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "as, time of",
+		"eastern phonetic": "ga'hit, kadh",
+		"eastern assyriac": "",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "because",
+		"eastern phonetic": "mitl, *sabab",
+		"eastern assyriac": "ܡܸܛܠ, *ܣܵܒܵܒ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "nēmel, nirit",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "because not",
+		"eastern phonetic": "badla",
+		"eastern assyriac": "ܒܵܕܠܵܐ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "but",
+		"eastern phonetic": "eena",
+		"eastern assyriac": "ܐܝܼܢܵܐ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "ezib",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "but what",
+		"eastern phonetic": "ila kee",
+		"eastern assyriac": "ܐܸܠܵܐܟܹܐ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "if",
+		"eastern phonetic": "en, iloo",
+		"eastern assyriac": "ܐܸܢ, ܐܸܠܘܿ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "assurri",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "then, therefore, consequently",
+		"eastern phonetic": "idla",
+		"eastern assyriac": "ܐܸܕܠܵܐ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "else, if not, or else, otherwise",
+		"eastern phonetic": "in'la, i'nikhwa, lookha",
+		"eastern assyriac": "ܐܸܢ ܠܵܐ, ܐܸܢܸܚܘܵܐ, ܠܘܿܟ݂ܵܐ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "ūla",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "nor, neither, not even",
+		"eastern phonetic": "oopla, apla",
+		"eastern assyriac": "ܐܘܼܦ ܠܵܐ, ܐܵܦܠܵܐ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "lā",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "or, either (loan word?)",
+		"eastern phonetic": "*yaa",
+		"eastern assyriac": "ܝܵܐ*",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "ūl, lū, ammar",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "or else, if not, otherwise / or",
+		"eastern phonetic": "u'ila, in'la",
+		"eastern assyriac": "ܘܐܸܠܵܐ, ܐܸܢ ܠܵܐ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "ūla",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "per, in accordance with, according to",
+		"eastern phonetic": "mitl d",
+		"eastern assyriac": "ܡܸܛܠ ܕ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "pitti, ina pitti",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "so",
+		"eastern phonetic": "akh",
+		"eastern assyriac": "ܐܲܝܟ݂",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "until, till",
+		"eastern phonetic": "‘hal",
+		"eastern assyriac": "ܗܲܠ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "adi, adu",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "when",
+		"eastern phonetic": "eeman",
+		"eastern assyriac": "",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "kīma",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "whenever",
+		"eastern phonetic": "koodaanna, eeman'd",
+		"eastern assyriac": "",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "matimê, immatimê",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "while",
+		"eastern phonetic": "iman",
+		"eastern assyriac": "ܐܝܼܡܲܢ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "while",
+		"eastern phonetic": "edaan'd, edaanaa'd",
+		"eastern assyriac": "",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "yet, still",
+		"eastern phonetic": "*haalaam",
+		"eastern assyriac": "",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "ḫurri, aḫḫur",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "yet, except that",
+		"eastern phonetic": "ila",
+		"eastern assyriac": "ܐܸܠܵܐ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "ela",
+		"aramaic": "",
+		"example": ""
+	}
+]
