@@ -75,7 +75,7 @@ u <BR>
 
 Everyone is welcome to join the effort. Currently, there are three ways to contribute, all of which require a free GitHub account:
 
-1. Join the Assyrian Remote Open Source Society group on GitHub and make changes to this repository directly. For this option, contact Ron Rihoo at rihooron@gmail.com.
+1. Join the Assyrian Remote OpenSource Society group on GitHub and make changes to this repository directly. For this option, contact Ron Rihoo at rihooron@gmail.com.
 2. Fork the repository, make changes, create pull requests, and wait for one of the group members to merge the changes.
 3. Create an issue explaining the changes that you'd like to make and wait for a group member to make the changes.
 
