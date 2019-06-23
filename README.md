@@ -33,6 +33,44 @@ kh is used for the kheth, ܚ, sound - such as "khela" (strength, might, power) o
 
 Currently, the wordlists are in text format and they have not been sorted yet. A more visually consumable format will be given to the wordlists, eventually. Initiating the effort has higher priority.
 
+In order to make the text files more programmatically consumable for conversion to other formats (such as JSON, XML, CSV), the following schema is going to be implemented in the text files.
+
+**Schema**
+
+English Word <BR>
+Eastern Phonetic <BR>
+Eastern Assyriac <BR>
+Western Phonetic <BR>
+Western Assyriac <BR>
+\# Akkadian <BR>
+^ Aramaic <BR>
+\*Indicator for potential loan word <BR>
+... Indicator for absence of data (not yet filled) <BR>
+: Example 1 in English <BR>
+: Example 1 in Eastern Phonetic <BR>
+: Example 1 in Eastern Assyriac <BR>
+: Example 1 in Western Phonetic <BR>
+: Example 1 in Western Assyriac <BR>
+: Example 2 in English <BR>
+: ... <BR>
+
+**Example**
+
+and <BR>
+u <BR>
+ܘ <BR>
+u <BR>
+ܘ <BR>
+\# u <BR>
+^ wǝ <BR>
+: This and that. <BR>
+: aha u a'ya <BR>
+: ܐܲܝܵܐ ܘ ܐܵܝ <BR>
+: oho u ayo <BR>
+: ܐܰܝܳܐ ܘ ܐܰܝܳܐ <BR>
+: Ink and paper. <BR>
+: ... <BR>
+
 ## Contribution
 
 Everyone is welcome to join the effort. Currently, there are three ways to contribute, all of which require a free GitHub account:
