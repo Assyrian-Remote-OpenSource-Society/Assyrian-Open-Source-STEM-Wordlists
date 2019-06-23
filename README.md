@@ -68,9 +68,9 @@ u <BR>
 ^ wǝ <BR>
 : This and that. <BR>
 : aha u a'ya <BR>
-: ܐܲܝܵܐ ܘ ܐܵܝ <BR>
+: ܐܵܗܵܐ ܘ ܐܲܝܵܐ <BR>
 : oho u ayo <BR>
-: ܐܰܝܳܐ ܘ ܐܰܝܳܐ <BR>
+: ܐܳܗܳܐ ܘ ܐܰܝܳܐ <BR>
 : Ink and paper. <BR>
 : ... <BR>
 
