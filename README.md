@@ -44,8 +44,6 @@ Western Phonetic <BR>
 Western Assyriac <BR>
 \# Akkadian <BR>
 ^ Aramaic <BR>
-\*Indicator for potential loan word <BR>
-... Indicator for absence of data (not yet filled) <BR>
 : Example 1 in English <BR>
 : Example 1 in Eastern Phonetic <BR>
 : Example 1 in Eastern Assyriac <BR>
@@ -53,6 +51,11 @@ Western Assyriac <BR>
 : Example 1 in Western Assyriac <BR>
 : Example 2 in English <BR>
 : ... <BR>
+
+**Indicators**
+
+\*Indicator for potential loan word <BR>
+... Indicator for absence of data (not yet filled) <BR>
 
 **Example**
 
