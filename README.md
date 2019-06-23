@@ -44,6 +44,7 @@ Western Phonetic <BR>
 Western Assyriac <BR>
 \# Akkadian <BR>
 ^ Aramaic <BR>
+? English Definition <BR>
 : Example 1 in English <BR>
 : Example 1 in Eastern Phonetic <BR>
 : Example 1 in Eastern Assyriac <BR>
@@ -66,6 +67,7 @@ u <BR>
 ܘ <BR>
 \# u <BR>
 ^ wǝ <BR>
+? Connects parts of speech together where each part is included jointly with the other connected part(s). <BR>
 : This and that. <BR>
 : aha u a'ya <BR>
 : ܐܵܗܵܐ ܘ ܐܲܝܵܐ <BR>
@@ -73,6 +75,23 @@ u <BR>
 : ܐܳܗܳܐ ܘ ܐܰܝܳܐ <BR>
 : Ink and paper. <BR>
 : ... <BR>
+
+**Requirements**
+
+It is required to notate and include each row up to the 8th one. Where there is no definition available, add the following to the 8th row, indicating acknowledgement of the absence of data:
+
+? ... <BR>
+
+It is not required to add a 9th row where there is no example. After row 8, the word entry is complete. The absence of example(s) for the word is assumed where it is not noted. Such as below:
+
+and <BR>
+u <BR>
+ܘ <BR>
+u <BR>
+ܘ <BR>
+\# u <BR>
+^ wǝ <BR>
+? ... <BR>
 
 ## Contribution
 
