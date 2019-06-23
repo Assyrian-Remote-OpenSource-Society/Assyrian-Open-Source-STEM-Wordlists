@@ -1,0 +1,62 @@
+[
+	{
+		"english": "who",
+		"eastern phonetic": "man, manee, may",
+		"eastern assyriac": "ܡܿܢ, ܡܵܢܝܼ, ܡܲܝܼ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "mannu",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "when",
+		"eastern phonetic": "eeman",
+		"eastern assyriac": "ܐܝܼܡܵܢ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "inum, kīma",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "where",
+		"eastern phonetic": "ayka, eka, eeka, al'eeka",
+		"eastern assyriac": "ܐܲܝܟܵܐ, ܐܹܝܟܵܐ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "ēkâ, aiāka, ayyaka, alê, ali, ēkānu, ēkīam, ēkāmma",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "what",
+		"eastern phonetic": "moo, moodee",
+		"eastern assyriac": "ܡܘܿ, ܡܘܿܕܝܼ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "mīnû",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "why",
+		"eastern phonetic": "qam, qamoo, qa'moodee",
+		"eastern assyriac": "ܩܵܡ, ܩܵܡܘܿ, ܩܵܐ ܡܘܼܕܝܼ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "atā, ammīni",
+		"aramaic": "",
+		"example": ""
+	},
+	{
+		"english": "how",
+		"eastern phonetic": "dakh, dakhee",
+		"eastern assyriac": "ܕܵܐܟ݂, ܕܵܐܟ݂ܝܼ",
+		"western phonetic": "",
+		"western assyriac": "",
+		"akkadian": "kī, akī, akê, akkāʾi, akkâya, ēkā'i, kīkî, kēkē",
+		"aramaic": "",
+		"example": ""
+	}
+]
