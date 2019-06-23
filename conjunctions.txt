@@ -1,4 +1,5 @@
 although - apin - ܐܵܦܸܢ
+#Akkadian: ...
 
 and - ou
 #Akkadian: u
@@ -13,9 +14,13 @@ because - mitl - ܡܸܛܠ
 #Akkadian: nēmel, nirit
 
 because not - badla - ܒܵܕܠܵܐ
+#Akkadian: ...
 
 but - eena - ܐܝܼܢܵܐ
 #Akkadian: ezib
+
+but what - ila kee - ܐܸܠܵܐܟܹܐ
+#Akkadian: ...
 
 if - en - ܐܸܢ
 if - iloo - ܐܸܠܘܿ
@@ -28,13 +33,17 @@ nor - oopla - ܐܘܼܦ ܠܵܐ
 nor, neither, not even - apla - ܐܵܦܠܵܐ
 #Akkadian: lā
 
-or, either - yaa - ܝܵܐ
+*or, either (loan word?) - yaa - ܝܵܐ
 #Akkadian: ūl, lū, ammar
+
+or else, if not, otherwise / or - u'ila, in'la - ܘܐܸܠܵܐ / ܐܸܢ ܠܵܐ
+# Akkadian (else, if not): ūla
 
 per, in accordance with, according to - mitl d - ܡܸܛܠ ܕ
 #Akkadian: pitti, ina pitti
 
 so - akh - ܐܲܝܟ݂
+#Akkadian: ...
 
 until, till - ‘hal - ܗܲܠ
 #Akkadian: adi, adu
@@ -46,8 +55,10 @@ whenever - koodaanna, eeman'd
 #Akkadian: matimê, immatimê
 
 while - iman - ܐܝܼܡܲܢ
+#Akkadian: ...
 
 while (the time of) - edaan'd / edaanaa'd
+#Akkadian: ...
 
 yet, still - haalaam
 #Akkadian: ḫurri (?), aḫḫur (?)
