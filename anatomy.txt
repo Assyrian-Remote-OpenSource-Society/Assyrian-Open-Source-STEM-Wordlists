@@ -216,11 +216,23 @@ Vulva - kha'noota - ܚܰܢܽܘܬܳܐ
 Labia - ?
 #Akkadian: lipiššati
 
-Prepuce (of the clitoris or penis) - gla'ita, kinpta, oor'loota - ܓܠܵܥܬܵܐ, ܟܸܢܦܬܵܐ, ܥܘܼܪܠܘܼܬܵܐ
-#Akkadian: ?
+Prepuce (of the clitoris or penis)
+gla'ita, kinpta, oor'loota
+ܓܠܵܥܬܵܐ, ܟܸܢܦܬܵܐ, ܥܘܼܪܠܘܼܬܵܐ
+...
+...
+# ...
+^ ...
+? ...
 
-Clitoris - kipta, glata - ܟܝܼܦܬܵܐ, ܓܠܲܥܬܵܐ
-#Akkadian: ḥanduttu
+Clitoris
+kipta, glata, bat'asa
+ܟܝܼܦܬܵܐ, ܓܠܲܥܬܵܐ, ܒܲܪ݇ܬ ܐܵܣܵܐ
+...
+ܟܺܝܦܬܳܐ, ܓܠܲܥܬܵܐ, ܒܰܪ݇ܬ ܐܳܣܳܐ
+# ḥanduttu
+^ ...
+? ...
 
 Vagina - rakhma - ܪܲܚܡܵܐ
 #Akkadian: ūru, ḫurdatu
