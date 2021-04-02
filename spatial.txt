@@ -7,6 +7,7 @@ qoobla
 ^ qwbll, qwbll'
 ? ...
 @ spatial, aspect
+* synonyms: pata, bara, bala, geeba, dipna
 
 anterior
 qamaya
@@ -87,7 +88,7 @@ barra
 ^ ...
 ? ...
 @ spatial
-* Note the absence of silenced Taw between barra (outside) and batra (behind).
+* Note the absence of silenced Taw between barra (outside) and batra (behind). Likely derived from the synonym for face/aspect, bara.
 
 behind
 baray
